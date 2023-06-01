@@ -3,3 +3,5 @@ Je s'appelle Groot
 Ok let's go
 Ca va peter
 Je suis dans la branch Exercice-Git
+Maintenant je doit faire des commit depuis le clone
+Je vais créer un fichier .exe
